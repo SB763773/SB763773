@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="156" viewBox="0 0 440 156" role="img" aria-label="p3d · 项目文档">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8F94FF"/><stop offset="100%" stop-color="#B49BFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="154" rx="18" fill="#1B2044" stroke="#2C3358" stroke-width="1.5"/>
+  <rect x="1" y="1" width="438" height="154" rx="18" fill="url(#b)" fill-opacity="0.025"/>
+  <rect x="22" y="1" width="64" height="3" rx="1.5" fill="url(#b)"/>
+  <text x="418" y="34" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#8F94FF" fill-opacity="0.45">06</text>
+  <rect x="20" y="27" width="4" height="34" rx="2" fill="url(#b)"/>
+  <text x="38" y="52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#F3F5FF">p3d · 项目文档</text>
+  <polygon points="379.0,37.5 380.9,42.3 386.1,42.7 382.1,46.0 383.4,51.1 379.0,48.3 374.6,51.1 375.9,46.0 371.9,42.7 377.1,42.3" fill="#8F94FF"/>
+  <text x="393" y="50" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#A9B0D0">1</text>
+  <text x="40" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="13.5" fill="#A9B0D0" fill-opacity="0.92">思维导图、进度报告与总览</text><text x="40" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="13.5" fill="#A9B0D0" fill-opacity="0.92">把开发过程沉淀成可查档案</text>
+  <line x1="20" y1="118" x2="420" y2="118" stroke="#2C3358" stroke-width="1"/>
+  <circle cx="28" cy="137" r="5" fill="#8E7BFB"/>
+  <text x="41" y="141" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="12.5" fill="#A9B0D0">Docs</text>
+  <text x="420" y="141" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#8F94FF">View repository &#8599;</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="156" viewBox="0 0 440 156" role="img" aria-label="智学 AI">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5E67FA"/><stop offset="100%" stop-color="#8E7BFB"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="154" rx="18" fill="#FFFFFF" stroke="#E0EAFE" stroke-width="1.5"/>
+  <rect x="1" y="1" width="438" height="154" rx="18" fill="url(#b)" fill-opacity="0.025"/>
+  <rect x="22" y="1" width="64" height="3" rx="1.5" fill="url(#b)"/>
+  <text x="418" y="34" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#5E67FA" fill-opacity="0.45">03</text>
+  <rect x="20" y="27" width="4" height="34" rx="2" fill="url(#b)"/>
+  <text x="38" y="52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#05082E">智学 AI</text>
+  <polygon points="379.0,37.5 380.9,42.3 386.1,42.7 382.1,46.0 383.4,51.1 379.0,48.3 374.6,51.1 375.9,46.0 371.9,42.7 377.1,42.3" fill="#5E67FA"/>
+  <text x="393" y="50" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#5A6180">1</text>
+  <text x="40" y="84" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="13.5" fill="#5A6180" fill-opacity="0.92">初高中智能学习平台单页原型</text><text x="40" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="13.5" fill="#5A6180" fill-opacity="0.92">从交互到界面一站式设计</text>
+  <line x1="20" y1="118" x2="420" y2="118" stroke="#E0EAFE" stroke-width="1"/>
+  <circle cx="28" cy="137" r="5" fill="#E34C26"/>
+  <text x="41" y="141" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="12.5" fill="#5A6180">HTML</text>
+  <text x="420" y="141" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#5E67FA">View repository &#8599;</text>
+</svg>
